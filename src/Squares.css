@@ -1,0 +1,13 @@
+.boxes{
+    display: flex !important;
+    margin: 20px;
+    height: 300px;
+    width: 200px;
+    border: 1px solid black;
+    flex-wrap: wrap;
+}
+
+.boxes__input{
+    margin-left: auto;
+    margin-right: auto;
+}
